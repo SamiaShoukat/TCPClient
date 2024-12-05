@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|d:\\visualstudio2022\\repos\\calltaggingrevamping\\tcpclient\\tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\helperclasses\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\helperclasses\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\helperclasses\\filepostinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\helperclasses\\filepostinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\inifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\inifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\response\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\response\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\tcpclient\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AF63E-1A45-4972-B0DE-0B79402443F4}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\App.config",
+              "RelativeDocumentMoniker": "TCPClient\\App.config",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\App.config",
+              "RelativeToolTip": "TCPClient\\App.config",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-17T12:55:44.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPClient.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\TCPClient.cs",
+              "RelativeDocumentMoniker": "TCPClient\\TCPClient.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\TCPClient.cs",
+              "RelativeToolTip": "TCPClient\\TCPClient.cs",
+              "ViewState": "AgIAALoBAAAAAAAAAAASwMUBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:55:44.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\Request\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "TCPClient\\Request\\RegisterRequest.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\Request\\RegisterRequest.cs",
+              "RelativeToolTip": "TCPClient\\Request\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:55:44.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INIFile.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\INIFile.cs",
+              "RelativeDocumentMoniker": "TCPClient\\INIFile.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\INIFile.cs",
+              "RelativeToolTip": "TCPClient\\INIFile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:55:44.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\Logger.cs",
+              "RelativeDocumentMoniker": "TCPClient\\Logger.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\Logger.cs",
+              "RelativeToolTip": "TCPClient\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:55:44.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilePostingHelper.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\HelperClasses\\FilePostingHelper.cs",
+              "RelativeDocumentMoniker": "TCPClient\\HelperClasses\\FilePostingHelper.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\HelperClasses\\FilePostingHelper.cs",
+              "RelativeToolTip": "TCPClient\\HelperClasses\\FilePostingHelper.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwKgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:55:44.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\User.cs",
+              "RelativeDocumentMoniker": "TCPClient\\User.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\User.cs",
+              "RelativeToolTip": "TCPClient\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:55:44.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TCPClient\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "TCPClient\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:55:45.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\Program.cs",
+              "RelativeDocumentMoniker": "TCPClient\\Program.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\Program.cs",
+              "RelativeToolTip": "TCPClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:55:45.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\Response\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "TCPClient\\Response\\RegisterResponse.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\Response\\RegisterResponse.cs",
+              "RelativeToolTip": "TCPClient\\Response\\RegisterResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:55:44.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\packages.config",
+              "RelativeDocumentMoniker": "TCPClient\\packages.config",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\packages.config",
+              "RelativeToolTip": "TCPClient\\packages.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-17T12:55:44.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\HelperClasses\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "TCPClient\\HelperClasses\\EncryptionHelper.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\HelperClasses\\EncryptionHelper.cs",
+              "RelativeToolTip": "TCPClient\\HelperClasses\\EncryptionHelper.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAA7wNIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:55:45.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobStatus.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\JobStatus.cs",
+              "RelativeDocumentMoniker": "TCPClient\\JobStatus.cs",
+              "ToolTip": "D:\\VisualStudio2022\\repos\\CallTaggingRevamping\\TCPClient\\TCPClient\\JobStatus.cs",
+              "RelativeToolTip": "TCPClient\\JobStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:55:45.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
